@@ -1,0 +1,21 @@
+
+Teszt dokumentáció
+(a word sehogy nem megy)
+
+
+kepekTombFeltoltese:
+
+Létezik-e a metódus?    létezik    létezik
+Függvény-e?             függvény    tényleg az
+
+
+
+kartyaKattintas:
+
+Kattintáskor megváltozik-e az állapota?   változik
+
+
+
+Játéktér objektumainak létrejötte:
+
+Létrejövő Kártya obj. alap értéke false?    false
